@@ -6,7 +6,7 @@ A subnetwork or subnet is a logical subdivision of an IP network. The practice o
 
 ## Brilliant Cloud platform Subnet
 
-Each Subnet should be attached with VPC. Each VPC can contain at most four subnet. You can define your subnet as public subnet and private subnet.
+Each Subnet should be attached with VPC. Each VPC can contain at most four subnet.
 
 ## creating a Subnet
 
